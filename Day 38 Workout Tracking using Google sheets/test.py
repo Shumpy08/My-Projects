@@ -1,7 +1,7 @@
 import requests
 
-APP_ID = "0870de07"
-API_KEY = "def57166f6bd1867aeb8c0ae75787f85"
+APP_ID = "#"
+API_KEY = "##"
 API_ENDPOINT = "https://trackapi.nutritionix.com/v2/natural/exercise"
 headers = {
     "x-app-id": APP_ID,

@@ -4,8 +4,8 @@ import requests
 import datetime as dt
 import time
 
-my_email = "codeniqqer08@gmail.com"
-password = "csyvqyyuaxzeosma"
+my_email = "#####@gmail.com"
+password = "#####"
 MY_LAT = 51.507351
 MY_LONG = -0.127758
 

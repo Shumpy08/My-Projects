@@ -1,11 +1,11 @@
 import requests
 import datetime
-username = "fartnigga"
-token = "darbhanga08"
+username = "#"
+token = "$"
 pixela_endpoint = "https://pixe.la/v1/users"
 user_params = {
-    "token": "darbhanga08",
-    "username": "fartnigga",
+    "token": "##",
+    "username": "$",
     "agreeTermsOfService": "yes",
     "notMinor": "yes"
 

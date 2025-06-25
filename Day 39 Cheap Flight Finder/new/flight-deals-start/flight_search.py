@@ -1,6 +1,6 @@
 import requests
 
-TEQUILA_API_KEY = "s22jCGEZDzsN0FViXke5vm2NbJAVAtpd"
+TEQUILA_API_KEY = "^^%^^%$%*&^*&^*&"
 TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com"
 
 

@@ -3,9 +3,9 @@ import requests
 from twilio.rest import Client
 
 api = "https://api.openweathermap.org/data/2.5/forecast"
-api_key = "59f291d921942c20a17bc738c88f1d10"
-account_sid = "ACb763b94e0b2db1f83c7e517e21ff4275"
-auth_token = "294e5d8c8d61619b3a8d1d661c574692"
+api_key = "API KEY"
+account_sid = "######"
+auth_token = "####"
 
 parameters = {
     "lat": 12.971599,
@@ -29,7 +29,7 @@ if will_rain:
     message = client.messages.create(
         body="Its gonna rain today. Bring an Umbrella ",
         from_="+15162593601",
-        to="+917781950588"
+        to="++ YOUR NUMBER"
     )
 
     print(message.sid)
@@ -38,5 +38,5 @@ else:
     message = client.messages.create(
         body='The weather is clear today. No signs of rain. ',
         from_="+15162593601",
-        to="+917781950588"
+        to="+ YOUR NUMBER"
     )
