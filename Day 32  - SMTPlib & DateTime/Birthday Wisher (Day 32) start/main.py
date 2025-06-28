@@ -16,15 +16,15 @@ if week == 2:
         quote = random.choice(babe)
         print(quote)
 
-    my_email = "codeniqqer08@gmail.com"
-    password = "csyvqyyuaxzeosma"
+    my_email = "$###@@@gmail.com"
+    password = "******"
 
     connection = smtplib.SMTP(host='smtp.gmail.com', port=587)
     connection.starttls()
     connection.login(user=my_email, password=password)
     connection.sendmail(
         from_addr=my_email,
-        to_addrs="shumpy0808@gmail.com",
-        msg=f"Subject:Fart\n\n{quote}"
+        to_addrs="########@gmail.com",
+        msg=f"Subject:FarTEXTt\n\n{quote}"
     )
     connection.close()

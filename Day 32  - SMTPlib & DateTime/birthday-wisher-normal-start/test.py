@@ -3,8 +3,8 @@ import random
 import pandas
 import datetime as dt
 
-user_id = "codeniqqer08@gmail.com"
-password = "csyvqyyuaxzeosma"
+user_id = "#####3"
+password = "#####3"
 
 today = dt.datetime.now()
 today_tuple = (today.month, today.day)

@@ -3,8 +3,8 @@ from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-EMAIL = "shumpy0808@gmail.com"
-PASSWORD = "darbhanga@08"
+EMAIL = "###@gm#ail.com"
+PASSWORD = "######"
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
