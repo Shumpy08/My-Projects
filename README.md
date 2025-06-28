@@ -1,6 +1,4 @@
-
-
-https://github.com/user-attachments/assets/6e7eb552-36cc-4ac7-89e0-862ddae16739
+![frieren-anime](https://github.com/user-attachments/assets/00a795bd-f997-43ea-a559-a49118a8ef76)
 
 
 I am Vengeance
